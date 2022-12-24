@@ -1,6 +1,3 @@
-# Dummy example Flask Service
-
-
 ## Running the application 
 
 You can run `./start.sh` to launch the application in Docker.
